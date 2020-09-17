@@ -6,4 +6,4 @@ Aluno: Willker de Oliveira Moura
 
 [link de referencia da linguagem Markdown] (https://markdown.net.br/)
 
-! [logomarca] (https://logodownload.org/wp-content/uploads/2019/10/python-logo.png)
+! [logomarca] (https://www.pinclipart.com/picdir/middle/269-2691398_python-logo-clipart-transparent-background-png-download.png)
